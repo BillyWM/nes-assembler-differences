@@ -15,6 +15,7 @@ Assemblers which have either published homebrew source, a significant commented 
     * Donkey Kong
 * ca65
     * Final Fantasy 1
+    * Homebrew: Lizard demo
 * WLA-DX
 * Ophis
     * Metroid disassembly by Snowbro
