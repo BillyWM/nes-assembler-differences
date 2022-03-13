@@ -4,9 +4,9 @@
 2. To create an assembler that can assemble any of these
 3. To create a convertor from one variant to another
 
-# Well known assemblers
+# Notable assemblers
 
-Assemblers which have either published homebrew source, a significant commented disassembly of a commerical game, or published commercial source
+Assemblers which have either been used with published homebrew source, a significant commented disassembly of a commerical game, or published commercial source
 
 * NESASM
     * SMB1 "A Comprehensive Super Mario Bros. Disassembly"
