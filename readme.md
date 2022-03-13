@@ -20,8 +20,11 @@ Assemblers which have either published homebrew source, a significant commented 
 * Ophis
     * Metroid disassembly by Snowbro
     * Dragon Warrior
-* Xkas
 * Color Dreams - unknown assembler
     * Some games have published source either by original authors or acquired fom Ebay
     * Secret Scout, Pradikus, Captain Comic, Crystal Mines II, Raid 2020, Pesterminator
-    
+
+## Others
+
+* NESHLA - comprehensive documentation and used by its author for Retro City Rampage, but no indication of use by others
+* Xkas - One of the older assemblers, but seems to be more of an SMWCentral thing. NES disassemblies aren't notable (e.g. barely commentated ones for Megaman 3, 4, 5)
