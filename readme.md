@@ -1,3 +1,9 @@
+# Purpose
+
+1. To formally document the grammar (in a PEG grammar) of the commonly used NES assemblers
+2. To create an assembler that can assemble any of these
+3. To create a convertor from one variant to another
+
 # Well known assemblers
 
 Assemblers which have either published homebrew source, a significant commented disassembly of a commerical game, or published commercial source
